@@ -402,4 +402,4 @@ In conclusion, this exercise taught me how to explore an unfamiliar codebase by 
 
 
 
-[Prompt Output](Screenshots)
+[Prompt Output](screenshots)
