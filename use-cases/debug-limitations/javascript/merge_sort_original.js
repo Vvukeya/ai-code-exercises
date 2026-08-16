@@ -27,7 +27,7 @@ function merge(left, right) {
     // Bug: Only one of these loops will execute
     while (i < left.length) {
         result.push(left[i]);
-        i++; // Advance through the remaining left-side elements
+        j++; // Bug: incrementing j instead of i
     }
 
     while (j < right.length) {
